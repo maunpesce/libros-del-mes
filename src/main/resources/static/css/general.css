@@ -1,0 +1,17 @@
+.libros-cards .card {
+	height: 100%;
+}
+
+.title {
+	display: grid;
+	place-items: center;
+}
+
+.navbar {
+	background-color: rgba(115, 167, 53, 0.75);
+}
+
+.btn {
+	background-color: rgba(115, 167, 53, 0.75);
+	border-color: white;
+    }
